@@ -2,8 +2,8 @@
 	path = ts-fsrs
 	url = https://github.com/ishiko732/ts-fsrs.git
 [submodule "gpt-cure"]
-	path = gpt/cure
+	path = gpt-cure
 	url = https://github.com/ishiko732/gpt-cure.git
 [submodule "gpt-make-card"]
-	path = gpt/make_card
+	path = gpt-make-card
 	url = https://github.com/ishiko732/gpt-make-card.git
